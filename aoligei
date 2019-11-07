@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>商职网站</title>
+	<style type="text/css">
+		.box{width:992px;height:800px;margin:0 auto}
+		.box1{font-size:0px;
+			width:auto;
+			height:185px}
+		.box2{background-color:#0F3;
+			width:auto;
+			height:31px;
+			text-align:center;
+			line-height:31px;
+			background-image:url(img/index_4.jpg)}
+		.box3{font-size:0px;
+			width:365px;
+			height:248px;
+			background:url(img/index_5_1_1.jpg);
+			float:left;
+			padding-top:14px;
+			text-align:center;
+			box-sizing:border-box
+			}
+		.box4{
+			width:627px;
+			height:248px;
+			float:left}
+		.box5{
+			width:620px;
+			height:200px;
+			float:left}
+		.box6{
+			width:358px;
+			height:200px;
+			float:left}
+		.box7{background-color:#006;
+			width:auto;
+			height:50px;
+			clear:both}
+		.box2 span{color:#FFF}
+
+	</style>
+</head>
+
+<body>
+	<div class="box">
+		<div class="box1"><img src="img/index_1_1.jpg"><img src="img/index_1_2.jpg"><img src="img/index_2.jpg"><img src="img/index_3_1.jpg"><img src="img/index_3_2.jpg"><img src="img/index_3_3.jpg"></div>
+    	<div class="box2"><span>首页</span>丨<span>学校概况</span>丨<span>机构设置</span>丨<span>教育教学</span>丨<span>科学研究</span>丨<span>招生信息</span>丨<span>就业平台</span>丨<span>学生社区</span>丨<span>校园文化</span>丨<span>媒体报道</span>丨<span>商职院报</span>丨<span>平建专栏</span></div>
+    	<div class="box3"><span class="a3"><img src="img/index_5_1_2.jpg"></span></div>
+    	<div class="box4"><img src="img/index_5_2_1.jpg"><img src="img/index_5_2_2.jpg"></div>
+    	<div class="box5"><img src="img/index_6_1.jpg"></div>
+    	<div class="box6"><img src="img/index_6_2_1.jpg"></div>
+    	<div class="box7"><img src="img/index_7.jpg"></div>
+	</div>
+</body>
+</html>
